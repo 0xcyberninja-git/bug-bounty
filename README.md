@@ -174,6 +174,3 @@ This repository provides a **structured, evolving** approach to bug bounty hunti
 **License**: MIT  
 **Disclaimer**: Use tools responsibly. Unauthorized testing is illegal.  
 
----
-
-This repository structure ensures **progressive learning** while integrating **cutting-edge AI and automation** for maximum efficiency. 🚀🔍💻
